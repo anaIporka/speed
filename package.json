@@ -1,0 +1,35 @@
+{
+  "name": "template",
+  "private": true,
+  "version": "0.0.0",
+  "description": "React component",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "start": "megapolis-compiler start",
+    "build": "megapolis-compiler build",
+    "lint": "megapolis-compiler lint demo"
+  },
+  "author": "Megapolis IT",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@megapolis/compiler": "^0.4.0",
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "normalize.css": "^8.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "dependencies": {
+    "@types/classnames": "^2.2.11",
+    "bezier-js": "^3.0.1",
+    "classnames": "^2.2.6",
+    "uuid": "^8.3.1"
+  }
+}

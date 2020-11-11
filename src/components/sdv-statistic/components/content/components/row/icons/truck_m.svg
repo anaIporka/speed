@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.691" height="23" viewBox="0 0 60.691 23">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#333;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="Group_31" data-name="Group 31" transform="translate(-1844.927 -511.5)">
+        <path id="Path_11" d="M1899.012 532.4s3.019 0 3.4-.585a5.634 5.634 0 0 0 .377-2.147s.472-.293.472-.684v-3.9s-.189-.585-.566-.585v-7.027s.755-1.171-.755-2.147a15.945 15.945 0 0 0-8.87-2.341c-1.51 0-1.322-.976-2.265-.976a1.143 1.143 0 0 0-1.321.976c-.189.975-.189 15.224-.189 15.224h-10.569" class="cls-1" data-name="Path 11" transform="translate(1.86)"/>
+        <path id="Line_23" d="M0 0h13.3" class="cls-1" data-name="Line 23" transform="translate(1891.158 524.428)"/>
+        <path id="Path_12" d="M1880.233 530.212h9.248l.755.378h1.7" class="cls-1" data-name="Path 12" transform="translate(1.413 .674)"/>
+        <path id="Line_24" d="M7.12 0H0" class="cls-1" data-name="Line 24" transform="translate(1865.095 530.98)"/>
+        <path id="Line_25" d="M11.004 0H0" class="cls-1" data-name="Line 25" transform="translate(1863.136 528.159)"/>
+        <path id="Path_13" d="M1886.405 525.966v-12.079a1.133 1.133 0 0 0-1.133-1.132h-38.5a1.132 1.132 0 0 0-1.132 1.132v15.146" class="cls-1" data-name="Path 13" transform="translate(2)"/>
+        <path id="Path_14" d="M1844.374 532.781a5.56 5.56 0 0 0 .566-1.887c0-.755 1.322-.566 1.322-.566h1.758" class="cls-1" data-name="Path 14" transform="translate(1 -1.326)"/>
+        <circle id="Ellipse_8" cx="2.737" cy="2.737" r="2.737" class="cls-1" data-name="Ellipse 8" transform="translate(1895.115 528.527)"/>
+        <circle id="Ellipse_9" cx="2.737" cy="2.737" r="2.737" class="cls-1" data-name="Ellipse 9" transform="translate(1874.451 528.527)"/>
+        <circle id="Ellipse_10" cx="2.737" cy="2.737" r="2.737" class="cls-1" data-name="Ellipse 10" transform="translate(1857.069 528.527)"/>
+        <circle id="Ellipse_11" cx="2.737" cy="2.737" r="2.737" class="cls-1" data-name="Ellipse 11" transform="translate(1849.564 528.527)"/>
+        <path id="Rectangle_22" d="M0 0h4.907v3.208H0z" class="cls-1" data-name="Rectangle 22" transform="translate(1893.7 517.579)"/>
+        <path id="Path_15" d="M1902.362 517.284h-3.4a5.388 5.388 0 0 0 .378 3.209c.755 1.51 3.4 2.642 3.4 2.642" class="cls-1" data-name="Path 15" transform="translate(1.86 .23)"/>
+    </g>
+</svg>

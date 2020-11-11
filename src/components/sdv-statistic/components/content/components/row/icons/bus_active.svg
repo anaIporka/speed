@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.953" height="17.613" viewBox="0 0 36.953 17.613">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#7cb342;stroke-linecap:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="Group_205" data-name="Group 205" transform="translate(-1845.553 -450.887)">
+        <path id="Path_21" d="M1849.47 465.083s-3.655-.188-3.4-1.693-.509-10.916.764-11.669 19.359 0 21.142 0 4.075.565 4.839 1.318 3.9 3.793 4.84 4.14a5.413 5.413 0 0 1 3.566 3.011c.764 1.882 0 2.259 0 2.259s.764 0 .764.941v.752s.255.753-1.273 1.13a4.981 4.981 0 0 1-2.611 0" class="cls-1" data-name="Path 21"/>
+        <path id="Path_22" d="M1879.231 458.309l-29.4-.345a1.534 1.534 0 0 1-1.534-1.534v-4.83" class="cls-1" data-name="Path 22"/>
+        <circle id="Ellipse_15" cx="2.652" cy="2.652" r="2.652" class="cls-1" data-name="Ellipse 15" transform="translate(1872.61 462.696)"/>
+        <circle id="Ellipse_16" cx="2.652" cy="2.652" r="2.652" class="cls-1" data-name="Ellipse 16" transform="translate(1849.536 462.696)"/>
+        <path id="Line_26" d="M0 0v5.166" class="cls-1" data-name="Line 26" transform="translate(1870.616 452.798)"/>
+        <path id="Line_27" d="M0 0v13.126" class="cls-1" data-name="Line 27" transform="translate(1863.402 451.76)"/>
+        <path id="Path_23" d="M1855.9 451.387v11.285a1.984 1.984 0 0 0 1.469 1.937 7.661 7.661 0 0 0 1.512.208h13.165" class="cls-1" data-name="Path 23"/>
+        <path id="Line_28" d="M4.554 0H0" class="cls-1" data-name="Line 28" transform="translate(1855.234 464.817)"/>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+.speed-detector-visualization {
+    width: 100%;
+
+    overflow: hidden;
+
+    &__canvas-container {
+    }
+
+    &__statistic-container {
+        display: flex;
+        width: 100%;
+        margin-top: 14.4px;
+    }
+}

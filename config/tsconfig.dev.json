@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "jsx": "react",
+    "declaration": true,
+    "declarationMap": false,
+    "declarationDir": "../dist",
+    "sourceMap": true,
+    "removeComments": false,
+    "strict": true,
+    "noImplicitAny": true,
+    "alwaysStrict": true,
+    "typeRoots": [
+      "../node_modules/@megapolis/compiler/types/svg.d.ts",
+      "../node_modules/@types"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "../demo/**/*"
+  ],
+  "exclude": [
+    "../dist",
+    "../src"
+  ],
+  "files": [
+    "../node_modules/@megapolis/compiler/types/svg.d.ts"
+  ]
+}

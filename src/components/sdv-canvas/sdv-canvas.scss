@@ -1,0 +1,9 @@
+.speed-detector-visualization-canvas {
+    position: relative;
+
+    &__static-canvas {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+}
